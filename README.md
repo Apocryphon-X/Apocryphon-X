@@ -1,6 +1,7 @@
 <!-- 
 # Useful links for visitors:
-- GH Stats: https://github.com/anuraghazra/github-readme-stats 
+- GH Stats:        https://github.com/anuraghazra/github-readme-stats 
+- Visitors Badge:  https://visitor-badge.glitch.me/
 -->
 
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
