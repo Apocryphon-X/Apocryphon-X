@@ -8,7 +8,7 @@
 |:-----------------|:-----------------|
 
 <p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=Apocryphon-X" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Apocryphon-X" alt="visitor badge"/>
 </p>
 
 [1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true
