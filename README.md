@@ -1,3 +1,4 @@
+<!-- Estadisticas gracias a: https://github.com/anuraghazra/github-readme-stats -->
 
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------|
