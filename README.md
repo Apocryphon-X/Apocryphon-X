@@ -1,14 +1,15 @@
 <!-- 
 # Useful links for visitors:
-- GH Stats:        https://github.com/anuraghazra/github-readme-stats 
-- Visitors Badge:  https://visitor-badge.glitch.me/
+- GH Stats:              https://github.com/anuraghazra/github-readme-stats 
+- Visitors Badge:        https://visitor-badge.glitch.me/
+- Komarev Profile Views: https://github.com/antonkomarev/github-profile-views-counter
 -->
 
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------|
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=Apocryphon-X" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square" alt="visitor badge"/>
 </p>
 
 [1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true
