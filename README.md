@@ -4,9 +4,6 @@
 - Visitors Badge:        https://visitor-badge.glitch.me/
 - Komarev Profile Views: https://github.com/antonkomarev/github-profile-views-counter
 -->
-
-![](https://hit.yhype.me/github/profile?user_id=40130428)
-
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------| 
 
