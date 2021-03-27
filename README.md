@@ -8,7 +8,7 @@
 |:-----------------|:-----------------| 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=A6E22E" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=A6E22E" alt="Visitors Badge"/>
 </p>
 
 [1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true
