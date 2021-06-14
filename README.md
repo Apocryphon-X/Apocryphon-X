@@ -1,5 +1,5 @@
 <!-- 
-# Useful links for visitors:
+# Useful links for visitors of this repository:
 - GH Stats:              https://github.com/anuraghazra/github-readme-stats 
 - Visitors Badge:        https://visitor-badge.glitch.me/
 - Komarev Profile Views: https://github.com/antonkomarev/github-profile-views-counter
