@@ -14,7 +14,10 @@
     <img alt="Requests" width="60px" src="https://user-images.githubusercontent.com/40130428/122994120-b8c8de80-d36d-11eb-8723-797304fdfb99.png"/>
     <img alt="VS Code" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
     <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+    <img alt="PIP" width="50px" src="https://user-images.githubusercontent.com/40130428/122995501-51ac2980-d36f-11eb-884b-ab2d2db5901a.png"/>
+
 </p>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=8ef55b" alt="Visitors Badge"/>
