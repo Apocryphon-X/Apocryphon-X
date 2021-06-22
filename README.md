@@ -12,8 +12,8 @@
 <p align="center">
     <img alt="Visitors Badge" width="50px" src="https://user-images.githubusercontent.com/40130428/122990586-c11f1a80-d369-11eb-92d1-acbe4b7a11f1.png"/>
     <img alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/40130428/122991111-473b6100-d36a-11eb-90fb-ae4ebdf0dd46.png"/>
-    <img alt="Requests" width="50px" src="https://user-images.githubusercontent.com/40130428/122994120-b8c8de80-d36d-11eb-8723-797304fdfb99.png"/>
-    <img alt="VS Code" width="45px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
+    <img alt="Requests" width="60px" src="https://user-images.githubusercontent.com/40130428/122994120-b8c8de80-d36d-11eb-8723-797304fdfb99.png"/>
+    <img alt="VS Code" width="50px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
     <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 </p>
 
