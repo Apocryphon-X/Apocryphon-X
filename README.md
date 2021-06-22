@@ -8,7 +8,6 @@
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------| 
 
-
 <p align="center">
     <img alt="Visitors Badge" width="50px" src="https://user-images.githubusercontent.com/40130428/122990586-c11f1a80-d369-11eb-92d1-acbe4b7a11f1.png"/>
     <img alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/40130428/122991111-473b6100-d36a-11eb-90fb-ae4ebdf0dd46.png"/>
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=66cd00" alt="Visitors Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=8ef55b" alt="Visitors Badge"/>
 </p>
 
 [1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true
