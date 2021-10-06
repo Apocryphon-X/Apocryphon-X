@@ -23,8 +23,8 @@
     <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=8ef55b" alt="Visitors Badge"/>
 </p>
 
-[1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true
+[1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true&theme=radical&bg_color=ffffff00&hide_border=true
 [2]: https://github.com/Apocryphon-X
 
-[3]: https://github-readme-stats.vercel.app/api/pin/?username=Apocryphon-X&repo=omegaup-cli&show_owner=true&theme=radical&bg_color=0D1117&hide_border=true
+[3]: https://github-readme-stats.vercel.app/api/pin/?username=Apocryphon-X&repo=omegaup-cli&show_owner=true&theme=radical&bg_color=ffffff00&hide_border=true
 [4]: https://github.com/Apocryphon-X/omegaup-cli
