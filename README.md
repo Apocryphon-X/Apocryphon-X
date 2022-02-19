@@ -22,7 +22,7 @@
     <a href="https://gist.github.com/Apocryphon-X/">
         <img src="https://img.shields.io/badge/Apocryphon--X-Gists-inactive?style=flat-square&logo=github" alt="Visitors Badge"/><br>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=71BC4E" alt="Visitors Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=Apocryphon-X&style=flat-square&color=6AA6F1" alt="Visitors Badge"/>
 </p>
 
 [1]: https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true&title_color=6AA6F1&text_color=8B949E&bg_color=ffffff00&hide_border=true
