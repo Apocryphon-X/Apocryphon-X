@@ -5,6 +5,7 @@
 - Komarev Profile Views: https://github.com/antonkomarev/github-profile-views-counter
 -->
 
+<p align="center"><b> Temporarily gone... </b></p>
 
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------| 
