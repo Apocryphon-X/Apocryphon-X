@@ -7,6 +7,10 @@
 
 <p align="center"><b> Temporarily gone... </b></p>
 
+<p align="center">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Apocryphon-X&count_private=true&show_icons=true&title_color=6AA6F1&text_color=8B949E&bg_color=ffffff00&hide_border=true"/>
+
+<!--
 |[![MyStats][1]][2]|[![MyRepo2][3]][4]|
 |:-----------------|:-----------------| 
 
@@ -17,7 +21,7 @@
     <img alt="Termux" width="50px" src="https://user-images.githubusercontent.com/40130428/122998556-d2205980-d372-11eb-99a2-ebcd513fbc43.png"/>
     <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 </p>
-
+-->
 
 <p align="center">
     <a href="https://gist.github.com/Apocryphon-X/">
