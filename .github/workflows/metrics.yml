@@ -27,7 +27,7 @@ jobs:
         with:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_gists: yes
