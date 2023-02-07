@@ -27,8 +27,9 @@ jobs:
         with:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          comitter_gist: ${{ secrets.GIST }}
+          base: header
           output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_gists: yes
           plugin_activity: yes
           plugin_activity_days: 14
@@ -47,7 +48,6 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
           base_indepth: yes
           config_order: base.header, languages, notable, discussions
           output_action: gist
@@ -61,5 +61,3 @@ jobs:
           plugin_topics_limit: 0
           plugin_notable: yes
           plugin_discussions: yes
-
-
