@@ -19,6 +19,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
+          plugin_achievements_ignored: influencer
           plugin_achievements_display: compact
 
       - name: Activity
