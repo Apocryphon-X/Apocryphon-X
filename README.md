@@ -8,7 +8,7 @@ Dont forget to check out @lowlighter's profile! (https://github.com/lowlighter/)
 He's the creator of the Metrics Action, go follow him :).
 -->
 
-> I hope you're not seeing this on a phone.
+> I hope you are not viewing this on a phone **_browser_**.
 
 [<img width="390" align="left" alt="Hi" src="https://raw.githubusercontent.com/gist/Apocryphon-X/9e5bbc2c7b152f5b09a73c77c8ac13de/raw/general.svg">](#)
 <!-- 5 Years blinkie -->
