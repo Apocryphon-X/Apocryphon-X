@@ -11,7 +11,7 @@ jobs:
 
       - name: Achievements
         if: ${{ success() || failure() }}
-        uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest
+        uses: yobson1/metrics@b99f7cd27980d0761a668ecc8f1c08f0fa57df15 # lowlighter/metrics@latest
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
